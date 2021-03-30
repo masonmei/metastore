@@ -1,2 +1,3 @@
 # metastore
-metastore for observability
+
+metadata management for observability in cloud native sceanario.
